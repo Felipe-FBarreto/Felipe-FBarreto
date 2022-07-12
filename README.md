@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Felipe Barreto
-- 🌱 Estudante de Desenvolvimento Front-End
-- 🌱 Estudando ReactJs com TypeScript
+- 🌱 Desenvolvedor Front-End
 - 📫 Contate-me no email: felipebarreto1050@gmail.com
 - 📱(17) 996749148
 
