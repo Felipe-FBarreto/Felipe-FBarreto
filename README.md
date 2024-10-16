@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Felipe Barreto
-- 🌱 Desenvolvedor Front-End
+- 🌱 Desenvolvedor Front-End & Mobile
 - 📫 Contate-me no email: felipebarreto1050@gmail.com
 - 📱(17) 996749148
 
